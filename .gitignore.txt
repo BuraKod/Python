@@ -1,5 +1,0 @@
-*.pyc
-__pycache__
-Python
-db.sqlite3
-.DS_Store
